@@ -3,5 +3,3 @@ This is a Git tset file.
 Hello
 
 I'am Aviator-Shuke
-
-I'am 25
