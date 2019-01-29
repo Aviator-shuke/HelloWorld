@@ -6,4 +6,8 @@ I'am Aviator-Shuke
 
 I'am 26
 
+<<<<<<< HEAD
 This is master.
+=======
+This is branch test.
+>>>>>>> branch_1
