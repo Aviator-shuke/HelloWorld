@@ -6,8 +6,12 @@ I'am Aviator-Shuke
 
 I'am 26
 
+<<<<<<< HEAD ======= master
 <<<<<<< HEAD
 This is master.
 =======
 This is branch test.
->>>>>>> branch_1
+>>>>>>> branch_1 ======= master
+=======
+add a new branch "branch_1" ======= branch_1
+>>>>>>> 062463ec85759bf677b3b0640cda5565fce7f062 ======= branch_1
